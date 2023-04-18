@@ -1,5 +1,6 @@
 # Hugging Face Tutorial
-<img src="./images/huggingface-mlrun.png" alt="huggingface-mlrun" style="width: 25%"/>
+
+<img src="./images/huggingface-mlrun.png" alt="huggingface-mlrun" style="width: 300px"/>
 
 This project demonstrates how to build an ML application using **HuggingFace** and use **MLRun**'s MLOps to operationalize it.
 
